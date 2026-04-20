@@ -80,18 +80,6 @@ Apresente:
 
 ---
 
-## Critérios de Avaliação
-
-| Critério | Observação |
-|---|---|
-| Código funcional e organizado | Células com saída visível; sem erros não tratados |
-| Correção das implementações | Expected SARSA com equação correta |
-| Qualidade dos gráficos | Legendas, títulos e eixos nomeados |
-| Profundidade da análise escrita | Vai além de descrever o gráfico, interpreta e relaciona com a teoria |
-| Citação da fonte do Expected SARSA | Obrigatória para pontuar a Tarefa 2 |
-
----
-
 ## Dicas
 
 - Comece com poucos episódios para testar se o código está funcionando antes de rodar experimentos longos
