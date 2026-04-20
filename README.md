@@ -21,8 +21,8 @@ O código base dos algoritmos (Q-Learning, SARSA e epsilon-greedy) está dispon�
 
 Escolha **um** dos ambientes abaixo (todos disponíveis no Gymnasium) ou proponha outro de sua preferência, desde que seja compatível com métodos tabulares (espaço de estados e ações discretos e finitos):                           
 
-- `Taxi-v3` — agente de táxi em grid 5×5; 500 estados, 6 ações
-- `Blackjack-v1` — jogo de blackjack contra o dealer; espaço de estados compacto, política ótima conhecida
+- `Taxi-v3`: agente de táxi em grid 5×5; 500 estados, 6 ações
+- `Blackjack-v1`: jogo de blackjack contra o dealer; espaço de estados compacto, política ótima conhecida
 - `FrozenLake-v1` com mapa 8×8 — versão maior do ambiente já visto
 
 > Justifique brevemente no notebook por que escolheu esse ambiente.
