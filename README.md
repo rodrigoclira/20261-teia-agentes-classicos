@@ -87,7 +87,7 @@ Apresente:
 | Código funcional e organizado | Células com saída visível; sem erros não tratados |
 | Correção das implementações | Expected SARSA com equação correta |
 | Qualidade dos gráficos | Legendas, títulos e eixos nomeados |
-| Profundidade da análise escrita | Vai além de descrever o gráfico — interpreta e relaciona com a teoria |
+| Profundidade da análise escrita | Vai além de descrever o gráfico, interpreta e relaciona com a teoria |
 | Citação da fonte do Expected SARSA | Obrigatória para pontuar a Tarefa 2 |
 
 ---
