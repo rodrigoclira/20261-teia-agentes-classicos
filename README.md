@@ -23,7 +23,7 @@ Escolha **um** dos ambientes abaixo (todos disponíveis no Gymnasium) ou proponh
 
 - `Taxi-v3`: agente de táxi em grid 5×5; 500 estados, 6 ações
 - `Blackjack-v1`: jogo de blackjack contra o dealer; espaço de estados compacto, política ótima conhecida
-- `FrozenLake-v1` com mapa 8×8 — versão maior do ambiente já visto
+- `FrozenLake-v1` com mapa 8×8, versão maior do ambiente já visto
 
 > Justifique brevemente no notebook por que escolheu esse ambiente.
 
@@ -96,4 +96,4 @@ Apresente:
 
 - Comece com poucos episódios para testar se o código está funcionando antes de rodar experimentos longos
 - Fixe a seed (`np.random.seed`) para garantir reprodutibilidade
-- Se os resultados ficarem muito ruins, reveja os hiperparâmetros — alguns ambientes precisam de mais episódios ou taxas de aprendizado diferentes dos usados em aula
+- Se os resultados ficarem muito ruins, reveja os hiperparâmetros, alguns ambientes precisam de mais episódios ou taxas de aprendizado diferentes dos usados em aula
