@@ -1,6 +1,6 @@
 # Atividade Prática: Agentes Clássicos de Aprendizado por Reforço
 
-**Entrega:** Jupyter Notebook (.ipynb) ou Arquivos python (.py)
+**Entrega:** Jupyter Notebook (.ipynb)
 
 **Formato:** Individual
 
@@ -28,7 +28,7 @@ Escolha **um** dos ambientes abaixo (todos disponíveis no Gymnasium) ou proponh
 > Justifique brevemente no notebook por que escolheu esse ambiente.
 
 > [!NOTE]
-> Caso tenha dúvida na escolha, entre em contato com o professor. 
+> Caso tenha dúvidas sobre a escolha, entre em contato com o professor. 
 
 
 
@@ -36,7 +36,10 @@ Escolha **um** dos ambientes abaixo (todos disponíveis no Gymnasium) ou proponh
 
 ## Tarefas
 
-### Tarefa 1: Exploração do Ambiente (0,5 pt)
+> [!IMPORTANT]
+> Crie um notebook por atividade
+
+### Atividade 1: Exploração do Ambiente (0,5 pt)
 
 - Identifique e descreva: espaço de estados, espaço de ações e estrutura de recompensas
 - Execute um agente aleatório por 100 episódios e reporte: taxa de sucesso, recompensa média e número médio de passos
@@ -44,7 +47,7 @@ Escolha **um** dos ambientes abaixo (todos disponíveis no Gymnasium) ou proponh
 
 ---
 
-### Tarefa 2: Expected SARSA (1 pt)
+### Atividade 2: Expected SARSA (1 pt)
 
 O Expected SARSA é uma variante do SARSA que, em vez de usar o Q-valor da **ação efetivamente tomada** no próximo estado, usa o **valor esperado** considerando a política epsilon-greedy atual.
 
@@ -54,7 +57,7 @@ O Expected SARSA é uma variante do SARSA que, em vez de usar o Q-valor da **aç
 
 ---
 
-### Tarefa 3: Experimento de Hiperparâmetros (1,0 pt)
+### Atividade 3: Experimento de Hiperparâmetros (1,0 pt)
 
 Usando **Q-Learning** no ambiente escolhido, investigue o impacto de ao menos **dois hiperparâmetros** (escolha entre α, γ, ε_min ou decay_rate):
 
@@ -64,7 +67,7 @@ Usando **Q-Learning** no ambiente escolhido, investigue o impacto de ao menos **
 
 ---
 
-### Tarefa 4: Comparação dos Algoritmos (1,5 pt)
+### Atividade 4: Comparação dos Algoritmos (1,5 pt)
 
 Com os **melhores hiperparâmetros** encontrados na Tarefa 3, treine e avalie os três algoritmos no mesmo ambiente:
 
